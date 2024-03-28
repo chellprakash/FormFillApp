@@ -9,13 +9,22 @@
     <input type="text" placeholder="Enter Name" name="name" id="name" required>
     <br>
 
+    <label for="Email"><b>Mail_ID</b></label>
+    <input type="text" placeholder="Enter Mail_ID" name="Email" id="Email" required>
+    <br>
+
 
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
+    
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+    <br>
+    
+    <label for="Native"><b>Personal_details</b></label>
+    <input type="pappakudi" placeholder="Enter Native" name="Native" id="Native" required>
     <hr>
     <br>
 
