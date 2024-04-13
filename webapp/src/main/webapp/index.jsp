@@ -20,6 +20,14 @@
     <label for="mother name"><b>mother name</b></label>
     <input type="text" placeholder="mother Name" name="mother" id="mother" required>
     <br>
+    
+    <label for="Brother family"><b>Brother family</b></label>
+    <input type="text" placeholder="Brother family" name="Brother" id="Brother" required>
+    <br>
+   
+    <label for="ALl are my Family"><b>ALl are my Family</b></label>
+    <input type="text" placeholder="ALl are my Family" name="Prakash" id="Prakash" required>
+    <br>
 
 
     <label for="Email"><b>Mail_ID</b></label>
