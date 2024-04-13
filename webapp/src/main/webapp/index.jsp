@@ -24,11 +24,14 @@
     <label for="Brother family"><b>Brother family</b></label>
     <input type="text" placeholder="Brother family" name="Brother" id="Brother" required>
     <br>
+
+    <label for="Spouse Name"><b>Spouse Name</b></label>
+    <input type="text" placeholder="Spouse Name" name="Spouse" id="Spouse" required>
+    <br>
    
     <label for="ALl are my Family"><b>ALl are my Family</b></label>
     <input type="text" placeholder="ALl are my Family" name="Prakash" id="Prakash" required>
     <br>
-
 
     <label for="Email"><b>Mail_ID</b></label>
     <input type="text" placeholder="Enter Mail_ID" name="Email" id="Email" required>
